@@ -1,0 +1,1 @@
+import FeedSub from 'feed-sub';

@@ -4,7 +4,8 @@
   "description": "Bot for subscribe to RSS or Atom feed",
   "main": "dist/index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/mr-zzq/rss-feed-bot/issues"
   },
-  "homepage": "https://github.com/mr-zzq/rss-feed-bot#readme"
+  "homepage": "https://github.com/mr-zzq/rss-feed-bot#readme",
+  "dependencies": {
+    "feed-sub": "0.0.4",
+    "https-proxy-agent": "^5.0.0",
+    "mongodb": "^3.5.9",
+    "telegraf": "^3.38.0"
+  }
 }
