@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bf4acc1-27fe-4946-ae47-c0cd60980c0e" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dJHhcpT5G42ZR6PuZddp77mhNW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bf4acc1-27fe-4946-ae47-c0cd60980c0e" name="Default Changelist" comment="" />
+      <created>1592136395763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592136395763</updated>
+      <workItem from="1592136397019" duration="681000" />
+      <workItem from="1592137079271" duration="1769000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1592140538844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592140538844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="252" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592136461648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="252" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592136461648" />
+    <state x="738" y="243" key="FileChooserDialogImpl" timestamp="1592137073796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="243" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592137073796" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1592137077876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592137077876" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1592137077874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592137077874" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1592137077874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592137077874" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1592137077875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592137077875" />
+  </component>
+</project>

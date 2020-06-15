@@ -1,0 +1,19 @@
+{
+  "name": "rss-feed-bot",
+  "version": "1.0.0",
+  "description": "Bot for subscribe to RSS or Atom feed",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-zzq/rss-feed-bot.git"
+  },
+  "author": "ZZQ, Yesset",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mr-zzq/rss-feed-bot/issues"
+  },
+  "homepage": "https://github.com/mr-zzq/rss-feed-bot#readme"
+}
