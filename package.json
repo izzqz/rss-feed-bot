@@ -20,7 +20,7 @@
   "dependencies": {
     "feed-sub": "0.0.4",
     "https-proxy-agent": "^5.0.0",
-    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.18",
     "telegraf": "^3.38.0"
   }
 }
